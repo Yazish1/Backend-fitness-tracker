@@ -58,4 +58,5 @@ After logging in, you will see the main menu:
 ### File Structure
 
 fitness_tracker.py: The main Python script containing all the application logic.
+
 <username.txt>: User data file storing workouts as: sport,distance_km,duration_minutes,mm/yyyy

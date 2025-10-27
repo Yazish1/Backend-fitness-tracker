@@ -39,6 +39,7 @@ Login:
 
 Main Menu:
 After logging in, you will see the main menu:
+```
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 | Hi <username>           |
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -47,6 +48,8 @@ After logging in, you will see the main menu:
 | [3] Plan your health    |
 | [4] Exit                |
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
+
 - Log an activity → Enter sport, date, distance, duration
 - Track fitness → Choose sport + time period (e.g., 05/2024 or all)
 - Plan health goal → Choose goal + training weeks

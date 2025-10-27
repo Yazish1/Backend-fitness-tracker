@@ -51,7 +51,7 @@ After logging in, you will see the main menu:
 ```
 
 - Log an activity → Enter sport, date, distance, duration
-- Track fitness → Choose sport + time period (e.g., 05/2024 or all)
+- Track fitness → Choose sport + time period (e.g., 05/2025 or all)
 - Plan health goal → Choose goal + training weeks
 - Exit the program
 
